@@ -1,3 +1,3 @@
 # northern-tutchone-text-corpus
 
-test 1
+Corpus info/instructions/entry conventions go here 
