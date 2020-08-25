@@ -1,3 +1,3 @@
-# northern-tutchone-text-corpus
+# northern-tutchone-text-collection
 
 Corpus info/instructions/entry conventions go here 
